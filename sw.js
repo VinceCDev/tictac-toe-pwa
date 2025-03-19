@@ -4,8 +4,8 @@ const ASSETS = [
   '/index.html',
   '/style.css',
   '/script.js',
-  '/favicon-16x16.png',
-  '/favicon-32x32.png'
+  '/icon-192x192.jpg',
+  '/icon-512x512.jpg'
 ];
 
 // Install the service worker and cache assets
